@@ -1,4 +1,4 @@
-# Custom Data Source Chatbot Powered by LlamaIndex
+# ChatBot using LLMA2 and Replicate
 
 ## Description
 
